@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/Kamali9/ReactUi/static/css/main.f855e6bc.css",
-    "main.js": "/Kamali9/ReactUi/static/js/main.3155f7bb.js",
-    "static/js/453.ed3810f9.chunk.js": "/Kamali9/ReactUi/static/js/453.ed3810f9.chunk.js",
-    "static/media/logo.svg": "/Kamali9/ReactUi/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/Kamali9/ReactUi/index.html",
-    "main.f855e6bc.css.map": "/Kamali9/ReactUi/static/css/main.f855e6bc.css.map",
-    "main.3155f7bb.js.map": "/Kamali9/ReactUi/static/js/main.3155f7bb.js.map",
-    "453.ed3810f9.chunk.js.map": "/Kamali9/ReactUi/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/ReactUi/static/css/main.e6c13ad2.css",
+    "main.js": "/ReactUi/static/js/main.4e5dede6.js",
+    "static/js/453.ed3810f9.chunk.js": "/ReactUi/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/ReactUi/index.html",
+    "main.e6c13ad2.css.map": "/ReactUi/static/css/main.e6c13ad2.css.map",
+    "main.4e5dede6.js.map": "/ReactUi/static/js/main.4e5dede6.js.map",
+    "453.ed3810f9.chunk.js.map": "/ReactUi/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.3155f7bb.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.4e5dede6.js"
   ]
 }
